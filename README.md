@@ -67,11 +67,12 @@ Component Responsibilities
 | Restart app         | Records persist |
 
 4️⃣ Deployment = GitHub
-LINK = 
+LINK = https://github.com/Petosky001/Peter-24-13852
 
 5️⃣ Maintenance
 Future improvements:
 Add date-wise attendance
 Export to Excel/CSV
 Add student IDs
+
 Build GUI/web version
